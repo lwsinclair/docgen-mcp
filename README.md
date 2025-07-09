@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rjadhavjt-docgen-mcp-badge.png)](https://mseep.ai/app/rjadhavjt-docgen-mcp)
+
 # DocGen MCP Server
 
 Documentation Generator MCP Server for automated documentation creation from source files.
